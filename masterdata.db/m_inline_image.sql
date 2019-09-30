@@ -580,6 +580,11 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2001
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20011/tex_banner_gacha_text_20011_1", /*path*/"!Tu");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20011/tex_banner_gacha_top_20011_1", /*path*/"^52");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20011/tex_banner_notice_s_20011", /*path*/"rlD");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_gacha_sticker_20012", /*path*/"Gxo");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_gacha_text_20012_1", /*path*/"Nx)");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_gacha_top_20012_1", /*path*/"Y@<");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_notice_l_20012", /*path*/"<Gl");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_notice_s_20012", /*path*/"aPO");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20014/tex_banner_gacha_text_20014_1", /*path*/"Lv'");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20014/tex_banner_gacha_top_20014_1", /*path*/"WN|");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20014/tex_banner_notice_s_20014", /*path*/"<1F");
@@ -627,6 +632,12 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10012
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10012/tex_banner_notice_s_10012", /*path*/"&Tk");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10013/tex_banner_notice_l_10013", /*path*/"QtN");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Shop/10013/tex_banner_notice_s_10013", /*path*/"'y}");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70002/tex_banner_notice_s_70002", /*path*/"^V]");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70002/tex_banner_notice_l_70002", /*path*/"};*");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70003/tex_banner_notice_s_70003", /*path*/"*1}");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70003/tex_banner_notice_l_70003", /*path*/"3W4");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70004/tex_banner_notice_s_70004", /*path*/"Jy*");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70004/tex_banner_notice_l_70004", /*path*/";af");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_gimmick_1001", /*path*/"iIf");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_gimmick_1002", /*path*/"7>$");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_gimmick_1003", /*path*/"g{I");

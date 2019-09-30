@@ -15,6 +15,8 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gach
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20002/tex_banner_notice_l_20002", /*path*/"c$/");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20009/tex_banner_notice_s_20009", /*path*/"lc?");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/40001/tex_banner_notice_s_40001", /*path*/"LHr");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_notice_l_20012", /*path*/"<Gl");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Event/Marathon/30001/tex_banner_notice_l_30001", /*path*/".'l");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/40001/tex_banner_notice_l_40001", /*path*/"JZE");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_10101", /*path*/"oD");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_10102", /*path*/"#Z");
@@ -95,3 +97,6 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Icon/tex_in
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Icon/tex_inlineimage_item_2005_s", /*path*/"b*+");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loginbonus/40005/tex_banner_notice_l_40005", /*path*/"pP5");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Location/50001/tex_banner_notice_l_50001", /*path*/"J^T");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70002/tex_banner_notice_l_70002", /*path*/"};*");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70003/tex_banner_notice_l_70003", /*path*/"3W4");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70004/tex_banner_notice_l_70004", /*path*/";af");
