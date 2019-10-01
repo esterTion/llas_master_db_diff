@@ -4449,6 +4449,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"global_menu_pickup_info_4", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_1", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_2", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_3", /*message*/"");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_50001", /*message*/"コラボショップ「ODAIBA ゲーマーズ」オープン");
 INSERT INTO `m_dictionary` VALUES (/*id*/"guide_accessory_edit_title01", /*message*/"アクセサリーをセットしよう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"guide_accessory_grade_up_title01", /*message*/"アクセサリーを限界突破しよう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"guide_accessory_level_up_title01", /*message*/"アクセサリーを合成しよう");
@@ -8701,53 +8702,53 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_active_skill_type_setting_parameter"
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_active_skill_type_setting_special_buff", /*message*/"特殊バフ系(仮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_active_skill_type_setting_stamina", /*message*/"スタミナ回復系(仮)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_active_skill_type_setting_voltage", /*message*/"ボルテージ獲得系(仮)");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10001_desc", /*message*/"『プレミアムμ&apos;sUR確定ガチャチケット』と
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11001_desc", /*message*/"『プレミアムμ&apos;sUR確定ガチャチケット』と
 『プレミアムμ&apos;sSR以上1枚確定10連ガチャチケット』が入った
 お得なセット♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10001_name", /*message*/"UR確定！スペシャルμ&apos;sセット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10002_desc", /*message*/"『プレミアムAqoursUR確定ガチャチケット』と
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11001_name", /*message*/"UR確定！スペシャルμ&apos;sセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11002_desc", /*message*/"『プレミアムAqoursUR確定ガチャチケット』と
 『プレミアムAqoursSR以上1枚確定10連ガチャチケット』が入った
 お得なセット♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10002_name", /*message*/"UR確定！スペシャルAqoursセット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10003_desc", /*message*/"『プレミアムUR確定ガチャチケット』が入ったお得なセット♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10003_name", /*message*/"UR確定！オールスターセット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10004_desc", /*message*/"『μ&apos;sフレッシュフルーツパーラー編SR確定ガチャチケット』が入ったお得なコース♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11002_name", /*message*/"UR確定！スペシャルAqoursセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11003_desc", /*message*/"『プレミアムUR確定ガチャチケット』が入ったお得なセット♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11003_name", /*message*/"UR確定！オールスターセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11004_desc", /*message*/"『μ&apos;sフレッシュフルーツパーラー編SR確定ガチャチケット』が入ったお得なコース♪
 13日間ログインすると合計65個のラブカスター（無償）、14日目には『μ&apos;sフレッシュフルーツパーラー編SR確定ガチャチケット』がもらえます！
 ※コースの有効期限は21日間です。有効期間を過ぎると、獲得していないアイテムがある場合でもコースは失効いたしますのでご注意ください。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10004_name", /*message*/"μ&apos;sフレッシュフルーツパーラー編SR確定コース");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10005_desc", /*message*/"『Aqoursハピネスチアガール編SR確定ガチャチケット』が入ったお得なコース♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11004_name", /*message*/"μ&apos;sフレッシュフルーツパーラー編SR確定コース");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11005_desc", /*message*/"『Aqoursハピネスチアガール編SR確定ガチャチケット』が入ったお得なコース♪
 13日間ログインすると合計65個のラブカスター（無償）、14日目には『Aqoursハピネスチアガール編SR確定ガチャチケット』がもらえます！
 ※コースの有効期限は21日間です。有効期間を過ぎると、獲得していないアイテムがある場合でもコースは失効いたしますのでご注意ください。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10005_name", /*message*/"Aqoursハピネスチアガール編SR確定コース");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10006_desc", /*message*/"『ニジガクTOKIMEKI Runners編SR確定ガチャチケット』が入ったお得なコース♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11005_name", /*message*/"Aqoursハピネスチアガール編SR確定コース");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11006_desc", /*message*/"『ニジガクTOKIMEKI Runners編SR確定ガチャチケット』が入ったお得なコース♪
 13日間ログインすると合計65個のラブカスター（無償）、14日目には『ニジガクTOKIMEKI Runners編SR確定ガチャチケット』がもらえます！
 ※コースの有効期限は21日間です。有効期間を過ぎると、獲得していないアイテムがある場合でもコースは失効いたしますのでご注意ください。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10006_name", /*message*/"ニジガクTOKIMEKI Runners編SR確定コース");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10007_desc", /*message*/"ラブカスター（有償）60個と各色のマカロン★1が入ったお得なセット♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10007_name", /*message*/"初心者応援セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10008_desc", /*message*/"30回ログインすると、ラブカスター（無償）が合計3500個もらえるお得なコース♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11006_name", /*message*/"ニジガクTOKIMEKI Runners編SR確定コース");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11007_desc", /*message*/"ラブカスター（有償）60個と各色のマカロン★1が入ったお得なセット♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11007_name", /*message*/"初心者応援セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11008_desc", /*message*/"30回ログインすると、ラブカスター（無償）が合計3500個もらえるお得なコース♪
 ※コースの有効期限は40日間です。有効期限を過ぎると、獲得していないアイテムがある場合でもコースは失効いたしますのでご注意ください。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10008_name", /*message*/"たっぷりラブカスターコース");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10009_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11008_name", /*message*/"たっぷりラブカスターコース");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11009_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
 各色のマカロンなどのおまけ付き！
 ※毎月1日 0:00に購入回数はリセットされます。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10009_name", /*message*/"進め！スクールアイドルセット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10010_desc", /*message*/"ラブカスター（有償）が120個入ったお得なセット♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11009_name", /*message*/"進め！スクールアイドルセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11010_desc", /*message*/"ラブカスター（有償）が120個入ったお得なセット♪
 スクールアイドルの証のおまけ付き！
 ※毎月1日 0:00に購入回数はリセットされます。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10010_name", /*message*/"覚醒応援セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10011_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11010_name", /*message*/"覚醒応援セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11011_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
 おまけで、μ&apos;sメンバーのメモリーがもらえます！
 ※毎月1日 0:00に購入回数はリセットされます。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10011_name", /*message*/"μ&apos;s仲良しセット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10012_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11011_name", /*message*/"μ&apos;s仲良しセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11012_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
 おまけで、Aqoursメンバーのメモリーがもらえます！
 ※毎月1日 0:00に購入回数はリセットされます。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10012_name", /*message*/"Aqours仲良しセット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10013_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11012_name", /*message*/"Aqours仲良しセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11013_desc", /*message*/"ラブカスター（有償）が450個入ったお得なセット♪
 おまけで、虹ヶ咲学園スクールアイドル同好会メンバーのメモリーがもらえます！
 ※毎月1日 0:00に購入回数はリセットされます。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_10013_name", /*message*/"ニジガク仲良しセット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_billing_product_asset_product_pack_11013_name", /*message*/"ニジガク仲良しセット");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_caution_setting_mail_body", /*message*/"プレイヤーID：{0}
 プレイヤー名：{1}
 端末情報：{2}/{3}/{4}KB
@@ -12383,20 +12384,20 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"present_box_ls_p301", /*message*/"→"
 INSERT INTO `m_dictionary` VALUES (/*id*/"present_box_ls_p401", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_love_01\" width=\"32px\" height=\"32px\" offsetY=\"-4px\" />{0}/{1}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"present_box_ls_p402", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_love_01\" width=\"32px\" height=\"32px\" offsetY=\"-4px\" />{0}/<color='#05c501'>{1}(+{2})</color>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"present_box_time_text", /*message*/"入手日時: {0}");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1_desc", /*message*/"ラブカスターの10個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1_name", /*message*/"ラブカスター10個");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_2_desc", /*message*/"ラブカスターの60個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_2_name", /*message*/"ラブカスター60個");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_3_desc", /*message*/"ラブカスターの120個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_3_name", /*message*/"ラブカスター120個");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_4_desc", /*message*/"ラブカスターの300個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_4_name", /*message*/"ラブカスター300個");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_5_desc", /*message*/"ラブカスターの600個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_5_name", /*message*/"ラブカスター600個");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_6_desc", /*message*/"ラブカスターの800個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_6_name", /*message*/"ラブカスター800個");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_7_desc", /*message*/"ラブカスターの1750個セット");
-INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_7_name", /*message*/"ラブカスター1750個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1001_desc", /*message*/"ラブカスターの10個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1001_name", /*message*/"ラブカスター10個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1002_desc", /*message*/"ラブカスターの60個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1002_name", /*message*/"ラブカスター60個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1003_desc", /*message*/"ラブカスターの120個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1003_name", /*message*/"ラブカスター120個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1004_desc", /*message*/"ラブカスターの300個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1004_name", /*message*/"ラブカスター300個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1005_desc", /*message*/"ラブカスターの600個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1005_name", /*message*/"ラブカスター600個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1006_desc", /*message*/"ラブカスターの800個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1006_name", /*message*/"ラブカスター800個");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1007_desc", /*message*/"ラブカスターの1750個セット");
+INSERT INTO `m_dictionary` VALUES (/*id*/"product_normal_1007_name", /*message*/"ラブカスター1750個");
 INSERT INTO `m_dictionary` VALUES (/*id*/"profile_l_101", /*message*/"プロフィール");
 INSERT INTO `m_dictionary` VALUES (/*id*/"profile_l_105", /*message*/"IDをコピー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"profile_l_114", /*message*/"未設定");
