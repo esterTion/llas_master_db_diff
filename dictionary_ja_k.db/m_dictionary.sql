@@ -2244,7 +2244,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p302", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p401", /*message*/"登録完了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p402", /*message*/"生まれた年と月を登録しました");
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p501", /*message*/"20歳未満の方へ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p502", /*message*/"20歳未満の方が商品を購入する場合、 親権者（おとうさんやおかあさん）の許可が必要です");
+INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p502", /*message*/"20歳未満の方が商品を購入する場合、
+親権者（おとうさんやおかあさん）の許可が必要です");
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p505", /*message*/"許可はもらいましたか？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p602", /*message*/"商品を購入するときは、親権者（お父さんやお母さん）に<br />許可をもらってください");
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_l_p701", /*message*/"上限超過");
@@ -2254,6 +2255,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_ls_p501", /*message*/
 INSERT INTO `m_dictionary` VALUES (/*id*/"age_verification_ls_p502", /*message*/"¥{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001002_00", /*message*/"音ノ木坂学院　校門(昼晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_001004_00", /*message*/"音ノ木坂学院　部室(昼晴)");
+INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_002001_00", /*message*/"穂むら外観");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_011001_00", /*message*/"浦の星女学院　校門(昼晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg01_011005_00", /*message*/"浦の星女学院　屋上(昼晴)");
 INSERT INTO `m_dictionary` VALUES (/*id*/"bg02_001001_00", /*message*/"音ノ木坂学院　屋上(昼晴)");
@@ -4195,7 +4197,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p704", /*message*/"と
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p705", /*message*/"エピソードへ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p901", /*message*/"ボーナススクールアイドル");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p909", /*message*/"・ボーナス対象のスクールアイドルは、限界突破ごとに1%ずつボーナスの値が増加します
-・ボーナス対象のスクールアイドルに記載されたボーナス値は、メンバーのアピール増加分も含めた数値です
 ・スクールアイドルの覚醒によるボーナス効果の変化はありません");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p910", /*message*/"とじる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"eventmarathon_l_p911", /*message*/"イベントポイント");
@@ -4555,11 +4556,13 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_106", /*message*/"<al
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_107", /*message*/"<align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11701\" width=\"1184px\" height=\"520px\"/></align>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_108", /*message*/"<align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11801\" width=\"1184px\" height=\"520px\"/></align>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_109", /*message*/"<align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11901\" width=\"1184px\" height=\"520px\"/></align>");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_11", /*message*/"メインストーリーを進めると、遊べる楽曲が増えます。
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_11", /*message*/"ストーリーを進めると、遊べる楽曲が増えます。
 
 ライブをクリアすると、楽曲の属性に沿った特訓アイテムや楽曲に参加しているオリジナルメンバーのメモリーなどを獲得することができます。
 
 一度ライブをプレイすると、プレイした難易度のオートプレイ機能が使用可能になります。
+オートプレイを使用すると、ノーツはGREATのみで判定されます。
+
 また、ライブには3つの目標と達成報酬が設定されています。
 それぞれの目標をクリアすることで、ラブカスターを獲得できます。
 すべての目標を達成すると、スキップチケットが使えるようになり、ライブをプレイせず、ライブ終了時の報酬を受け取ることができます。
@@ -4709,7 +4712,7 @@ LPを回復するには、時間経過やプレイヤーランク上昇、また
 ・アイテムの使用
 　ラブカスター10個で、LPを回復できます。
 　ライブキャンディ(50％)やライブキャンディ(100％)で、数値分のLPを回復できます。
-　※ラブカスターやアイテムを使用した場合、回復の最大値は200LPです。");
+　※ラブカスターやアイテムは、200LP未満の場合に使用可能です。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_20", /*message*/"画面左右から出てくるアイコンです。
 操作方法の異なるノーツがあり、楽曲のリズムに合わせて流れてきます。
 楽曲の難易度が高くなるとノーツの数や種類が多くなり、流れてくるスピードが速くなります。
@@ -4824,7 +4827,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_30", /*message*/"SP�
 カウントダウン終了時、画面上に0が表示された後に流れるノーツをもって、スペシャルタイムは終了します。
 
 SP特技については、『ライブ』の『SP(スペシャル)特技』に詳細が記載されています。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_31", /*message*/"メインストーリーなどを進めることで、新しい楽曲が解放されます。
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_31", /*message*/"ストーリーなどを進めることで、新しい楽曲が解放されます。
 先行配信や期間限定配信など、一部の楽曲はサービス開始時から解放されています。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_32", /*message*/"ライブごとに設定された条件を達成すると報酬を獲得できます。
 ライブの難易度や達成状況によって、もらえる報酬が異なります。
@@ -5114,11 +5117,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_68", /*message*/"ス�
 ストーリーをクリアすることで、新しい楽曲の追加や新たな課題の設定が行われます。
 
 ストーリーを読み終えると、報酬を獲得することができます。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_69", /*message*/"メインストーリー中に行うライブのことです。
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_69", /*message*/"ストーリー中に行うライブのことです。
 ストーリーライブは、通常楽曲より少ないLPでプレイできます。
 しかし、通常楽曲よりも獲得できる報酬が少ないのでご注意ください。
 
-メインストーリーは、オートプレイおよびスキップチケットを使用することはできません。");
+ストーリーライブは、通常楽曲同様に一度ライブをプレイすると、プレイした難易度のオートプレイ機能が使用可能になります。
+通常楽曲とは異なり、スキップチケットを使用することはできませんのでご注意ください。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_7", /*message*/"ホーム画面であなたをナビゲートしてくれるメンバーです。
 
 エピソードのメンバー詳細画面またはホーム画面から、ナビゲートしてくれるメンバーを変更することができます。
@@ -6023,6 +6027,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12010201", /*message*
 るので、タイミングよく処理しよう。ミスをするとアピール値が減るギミックノーツには注意しよう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_12010301", /*message*/"【攻略ヒント】特技発動率やクリティカル率など、ステータスの上昇効果を持つギミックノーツが多数登場す
 るので、タイミングよく処理しよう。ミスをするとアピール値が減るギミックノーツには注意しよう");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016101", /*message*/"【攻略ヒント】アピールチャンス中に、スタミナダメージの効果を持つノーツがあるのでスタミナダメージに
+注意しよう。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016201", /*message*/"【攻略ヒント】アピールチャンス中に、スタミナダメージの効果を持つノーツがあるのでスタミナダメージに
+注意しよう。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_20016301", /*message*/"【攻略ヒント】アピールチャンス中に、スタミナダメージの効果を持つノーツがあるのでスタミナダメージに
+注意しよう。最後のアピールチャンスでSP特技を2回発動できるようゲージをためておこう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_30001101", /*message*/"【攻略ヒント】操作に慣れよう！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_hint_30001102", /*message*/"【攻略ヒント】2回目のアピールチャンスでSP特技を発動できるように、ゲージをためておこう。ボルテー
 ジが目標に届かない時は、パラメータの高いスクールアイドルをSP特技対象スクールアイドルに編成してみよう");
@@ -6581,28 +6591,28 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10004301_3", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10004301_4", /*message*/"【特殊効果】スタミナ2500回復
 時間：アピールチャンス目標達成時
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005101_1", /*message*/"【特殊効果】SPゲージ獲得 【中】
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005101_1", /*message*/"【特殊効果】SPゲージ獲得【中】
 時間：アピールチャンス目標達成時
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005101_2", /*message*/"【特殊効果】クリティカル率20%上昇
 時間：アピールチャンス成功時から10ノーツ
 対象：全員");
-INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005101_3", /*message*/"【特殊効果】SPゲージ獲得 【中】
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005101_3", /*message*/"【特殊効果】SPゲージ獲得【中】
 時間：アピールチャンス目標達成時
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005201_1", /*message*/"【特殊効果】SPゲージ獲得 【中】
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005201_1", /*message*/"【特殊効果】SPゲージ獲得【中】
 時間：アピールチャンス目標達成時
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005201_2", /*message*/"【特殊効果】スタミナ2000回復
 時間：アピールチャンス目標達成時
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005201_3", /*message*/"【特殊効果】SPゲージ獲得 【中】
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005201_3", /*message*/"【特殊効果】SPゲージ獲得【中】
 時間：アピールチャンス目標達成時
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005201_4", /*message*/"【特殊効果】スタミナ2000回復
 時間：アピールチャンス目標達成時
 ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005301_1", /*message*/"【特殊効果】SPゲージ獲得 【中】
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005301_1", /*message*/"【特殊効果】SPゲージ獲得【中】
 時間：アピールチャンス目標達成時
 ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_10005301_2", /*message*/"【特殊効果】特技発動率10%上昇
@@ -7364,6 +7374,39 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12005301_3", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_12006301_3", /*message*/"【特殊効果】SPゲージ獲得量50%上昇
 時間：アピールチャンス開始から5ノーツ
 対象：全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016101_1", /*message*/"【特殊効果】スタミナ4000回復
+時間：アピールチャンス目標達成時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016101_2", /*message*/"【特殊効果】獲得ボルテージ30%増加
+時間：アピールチャンス中
+対象：ボルテージタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016101_3", /*message*/"【特殊効果】SPゲージ獲得量100%上昇
+時間：アピールチャンス中
+対象：SPタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016201_1", /*message*/"【特殊効果】特技発動率30%上昇
+時間：アピールチャンス中
+対象：スキルタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016201_2", /*message*/"【特殊効果】スタミナ10000回復
+時間：アピールチャンス目標達成時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016201_3", /*message*/"【特殊効果】獲得ボルテージ30%増加
+時間：アピールチャンス中
+対象：ボルテージタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016201_4", /*message*/"【特殊効果】SPゲージ獲得量100%上昇
+時間：アピールチャンス中
+対象：SPタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016301_1", /*message*/"【特殊効果】特技発動率30%上昇
+時間：アピールチャンス中
+対象：スキルタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016301_2", /*message*/"【特殊効果】スタミナ10000回復
+時間：アピールチャンス目標達成時
+");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016301_3", /*message*/"【特殊効果】獲得ボルテージ30%増加
+時間：アピールチャンス中
+対象：ボルテージタイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_20016301_4", /*message*/"【特殊効果】SPゲージ獲得量100%上昇
+時間：アピールチャンス中
+対象：SPタイプ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_gimmick_30000000", /*message*/"【特殊効果】なし
 
 ");
@@ -8192,6 +8235,17 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12010301_1", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12010301_2", /*message*/"合計124100ボルテージを獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12010301_3", /*message*/"合計172100ボルテージを獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_12010301_4", /*message*/"合計117200ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016101_1", /*message*/"合計9000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016101_2", /*message*/"合計12000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016101_3", /*message*/"SP特技で合計7000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016201_1", /*message*/"合計36000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016201_2", /*message*/"合計75000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016201_3", /*message*/"合計59000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016201_4", /*message*/"SP特技で合計17000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016301_1", /*message*/"合計86000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016301_2", /*message*/"合計179000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016301_3", /*message*/"合計191000ボルテージを獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_20016301_4", /*message*/"SP特技で合計62000ボルテージを獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_30001102_1", /*message*/"合計7000ボルテージを獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_30001102_2", /*message*/"SP特技で合計8400ボルテージを獲得する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_detail_wave_mission_30001103_1", /*message*/"SP特技で合計12000ボルテージを獲得する");
@@ -8791,7 +8845,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100611", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100621", /*message*/"「ドキピポ☆エモーション」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100631", /*message*/"「Someday of my life」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100641", /*message*/"「ありふれた悲しみの果て」を100回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100651", /*message*/"「ぶる～べりぃ?とれいん」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100651", /*message*/"「ぶる～べりぃ♡とれいん」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100661", /*message*/"「勇気のReason」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100671", /*message*/"「恋のシグナル Rin rin rin!」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100681", /*message*/"「Daring!!」を100回クリアする");
@@ -8802,7 +8856,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100721", /*
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100731", /*message*/"「WHITE FIRST LOVE」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100741", /*message*/"「Beginner&apos;s Sailing」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100751", /*message*/"「おやすみなさん！」を100回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100761", /*message*/"「RED GEM WINk」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100761", /*message*/"「RED GEM WINK」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100771", /*message*/"「純愛レンズ」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100781", /*message*/"「まほうつかいはじめました！」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_description_10100791", /*message*/"「in this unstable world」を100回クリアする");
@@ -8977,7 +9031,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100611", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100621", /*message*/"ドキピポ☆エモーション");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100631", /*message*/"Someday of my life");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100641", /*message*/"ありふれた悲しみの果て");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100651", /*message*/"ぶる～べりぃ?とれいん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100651", /*message*/"ぶる～べりぃ♡とれいん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100661", /*message*/"勇気のReason");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100671", /*message*/"恋のシグナル Rin rin rin!");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100681", /*message*/"Daring!!");
@@ -8988,7 +9042,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100721", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100731", /*message*/"WHITE FIRST LOVE");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100741", /*message*/"Beginner&apos;s Sailing");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100751", /*message*/"おやすみなさん！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100761", /*message*/"RED GEM WINk");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100761", /*message*/"RED GEM WINK");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100771", /*message*/"純愛レンズ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100781", /*message*/"まほうつかいはじめました！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_emblem_name_10100791", /*message*/"in this unstable world");
@@ -14244,6 +14298,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0014", /*message*/"�
 作曲・編曲：酒井陽一");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0015", /*message*/"作詞：畑 亜貴
 作曲・編曲：山田竜平");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0016", /*message*/"作詞：畑 亜貴
+作曲・編曲：森慎太郎
+ストリングスアレンジ：藤澤慶昌");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_copyright_so0054", /*message*/"作詞：畑 亜貴
 作曲：前口 渉
 編曲：増田武史");
@@ -14324,6 +14381,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0005", /*message*/"PSYCHIC
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0011", /*message*/"Snow halation");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0014", /*message*/"嵐のなかの恋だから");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0015", /*message*/"NO EXIT ORION");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0016", /*message*/"僕らは今のなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0054", /*message*/"孤独なHeaven");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0059", /*message*/"Someday of my life");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_name_so0061", /*message*/"ありふれた悲しみの果て");
@@ -14366,6 +14424,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0005", /*message*
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0011", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0014", /*message*/"あらしのなかのこいだから");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0015", /*message*/"のーえぐじっとおりおん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0016", /*message*/"ぼくらはいまのなかで");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0054", /*message*/"こどくなへぶん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0059", /*message*/"さむでいおぶまいらいふ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"song_pronunciation_so0061", /*message*/"ありふれたかなしみのはて");
@@ -14707,7 +14766,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p1701", /*message*/"プレ
 ニックネーム: {1}
 誕生日: {2}月{3}日");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p1801", /*message*/"スキップ確認");
-INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p1802", /*message*/"OP動画をスキップしますか？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p1802", /*message*/"オープニングムービーをスキップしますか？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p1803", /*message*/"OK");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p1804", /*message*/"キャンセル");
 INSERT INTO `m_dictionary` VALUES (/*id*/"tutorial_ls_p201", /*message*/"お気に入りメンバーを「{0}」で設定しますか？");
@@ -15814,10 +15873,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0019", /*message*/"音ノ�
 学年ごとにリボンの色が
 違うんだよ。
 知ってた？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0036", /*message*/"ざ、ざんしょ……
-あついね～");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0037", /*message*/"夏ももうすぐ終わっちゃうね
-でも、今年はあなたと色んな思い出が出来たから……♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0001_0038", /*message*/"芸術の秋だね。
 えへへ、私は海未ちゃんに
 日本舞踊を教えてもらおうと
@@ -15968,14 +16023,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0019", /*message*/"制服�
 学校の生徒かすぐ分かるのよ
 ……変なこと
 しないようにね？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0036", /*message*/"新学期は生徒会の仕事が
-多いの。練習時間は
-減らしたくないから、
-効率よく進めないと");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0037", /*message*/"もしかして……
-最近疲れ気味？
-今日は私が身体に優しい
-夕食を作ってあげるわね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0002_0038", /*message*/"学業にスポーツに芸術に。
 秋はたくさんのことを
 吸収したいわね♪");
@@ -16131,10 +16178,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0018", /*message*/"いつ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0019", /*message*/"音ノ木坂の制服はブレザーで
 きちんとした雰囲気が
 気に入ってるの");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0036", /*message*/"夏休み終わっちゃったね。
-また今月から頑張ろうっ♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0037", /*message*/"最近涼しくなってきたし……あなたとお散歩に
-行きたいなあ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0003_0038", /*message*/"秋と言えば、収穫の秋！
 うふふ、花陽ちゃんに
 教わったんだよ♪");
@@ -16302,12 +16345,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0019", /*message*/"この�
 落ち着いた雰囲気で、
 学業の邪魔にも
 なりませんよね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0036", /*message*/"まだ暑い日は続きますから、体調には
-気をつけてくださいね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0037", /*message*/"夜風が気持ちいい
-季節ですね。
-たまには夜のお散歩なんて
-いかがですか？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0004_0038", /*message*/"秋になると花陽はいつでも
 満面の笑みになるんです。
 新米の季節ですね");
@@ -16484,15 +16521,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0018", /*message*/"学校�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0019", /*message*/"走ると制服のスカートが
 ひらひらってするでしょ。
 結構いい感じだよね♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0036", /*message*/"夏休み終わっちゃった～！
-っていう悲しさを
-歌にするのはどう？
-今ならいい歌が
-歌えそうにゃ♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0037", /*message*/"部室にあなたがいると、
-なんだか
-安心するんだにゃ……♪
-えへへ、学校っていいね！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0005_0038", /*message*/"かよちんが新米で
 おにぎりを握ってくれるの！
 最近は毎日おにぎり
@@ -16658,13 +16686,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0019", /*message*/"制服�
 衣装ってわけじゃないけど
 ……思い出は
 山ほど詰まってるわ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0036", /*message*/"ほらほら、
-ぼんやりしてないの。
-もう新学期は始まったのよ？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0037", /*message*/"まだ夏休み気分が抜けない？
-仕方ないわね……
-今度の休みに
-遊んであげましょうか？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0006_0038", /*message*/"秋と言えば……芸術の秋♪
 あなたも音楽や美術を
 楽しんでね");
@@ -16826,14 +16847,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0018", /*message*/"音ノ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0019", /*message*/"制服でステージに上がるのも好きだよ。
 スクールアイドルならでは、
 だもんね♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0036", /*message*/"部室にコスモスの花を
-飾っておくね。
-秋の桜なんて
-素敵な名前やん♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0037", /*message*/"もしかして……残暑で
-身体が疲れてるんやない？
-ウチが隣にいるから、
-安心して休んでね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0007_0038", /*message*/"秋と言えば芸術の秋、
 運動の秋、わしわしの秋……
 ん？　おかしいこと
@@ -16998,12 +17011,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0018", /*message*/"制服�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0019", /*message*/"音ノ木坂学院の制服は
 ブレザータイプで、学年別に
 色が違うリボンが特徴です！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0036", /*message*/"まだ暑い日が続くから、
-しっかりごはんを食べて
-頑張ろうね！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0037", /*message*/"今日はスーパーで
-秋刀魚を買ったの！
-一緒に食べよう♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0008_0038", /*message*/"ごめんね、
 今ちょっと考え事を
 してて……新米……新米……");
@@ -17176,14 +17183,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0019", /*message*/"ピン�
 お気に入りなの♪
 ふんわりして愛らしくて、
 にこみたいっ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0036", /*message*/"残暑なんてニコニーが
-ふっとばしてあげるにこ！
-さあ、練習練習っ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0037", /*message*/"夏休みが終わっちゃうのは
-残念だけど、こうして
-毎日学校でみんなと
-会えるんだから……
-悪くないわね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0009_0038", /*message*/"ふっ、
 食欲の秋なんて古いわ！
 イマドキは
@@ -17348,13 +17347,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0018", /*message*/"浦女�
 スカーフの色が違うんだ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0019", /*message*/"浦女の制服、可愛いでしょ♪
 結構人気があるんだよ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0036", /*message*/"９月だ！
-まだまだ暑いけど……
-９月になっただけで、
-不思議と秋って感じがするね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0037", /*message*/"夏が終わっちゃうのは
-ちょっと寂しいけど……
-あなたと過ごす秋も好き♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0038", /*message*/"長袖、まだちょっと暑いなぁ……半袖出そう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0101_0039", /*message*/"ご飯が美味しい秋だよ～！
 大好きなあなたと食べると、
@@ -17512,14 +17504,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0019", /*message*/"この�
 気に入ってるの。
 でも学年が上がったら
 変わっちゃうのよね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0036", /*message*/"ついこの前までは
-夜の７時でも
-まだ明るかったのに、
-随分日が短くなったね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0037", /*message*/"鈴虫の音色って、
-澄んでいて綺麗よね。
-私の声の方が綺麗？
-……もうっ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0102_0038", /*message*/"秋と言えば……
 んー、芸術の秋。
 久し振りに絵を
@@ -17685,12 +17669,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0019", /*message*/"海辺�
 なんて思ったことも
 あったけど……
 多分関係無いよね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0036", /*message*/"サンマが出回り始めたね。
-早速今夜にでも塩焼きにして食べようかな♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0037", /*message*/"まさか海に嫉妬する日が
-来るなんてね～。
-だって、キミ、さっきから
-海ばっかり見てるんだもん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0103_0038", /*message*/"朝夕はもうだいぶ涼しいね。
 今の季節が一番
 過ごしやすいよ");
@@ -17866,12 +17844,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0019", /*message*/"入学�
 真新しかった制服も、
 ３年も着ていれば
 くたびれてきますわね……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0036", /*message*/"今年ももうあと３ヶ月。
-月日が流れるのは
-早いものですわ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0037", /*message*/"秋の空は青く、高く、
-あなたの瞳のように
-澄んでいて、美しいですわ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0104_0038", /*message*/"夏に比べて食欲が出るのは
 分かりますが、
 油断するとすぐに
@@ -18048,16 +18020,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0019", /*message*/"浦女�
 夏と冬でスカーフの結び方が
 違うんだよ。
 ３年生は同じなんだけどね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0036", /*message*/"スポーツの秋が始まるよ～！
-あ、でも
-プールが終わっちゃうのは
-残念だなぁ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0037", /*message*/"あはは！
-頭にとんぼが
-止まってるよ～！
-待って、写真撮らせて。
-キミととんぼと秋の空、
-パシャ☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0105_0038", /*message*/"だいぶ過ごしやすく
 なってきたね。
 この時期と春は
@@ -18208,11 +18170,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0019", /*message*/"実は�
 どこだと……ぎゃっ！
 こ、こらー！
 めくるなー！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0036", /*message*/"堕天使と真っ赤な彼岸花。
-これは撮るっきゃないわ！
-カメラよろしく！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0037", /*message*/"地上の秋も、
-ヨハネと満喫しましょう♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0106_0038", /*message*/"秋の七草……って、何？
 春の七草みたいに
 おかゆにして食べるの？");
@@ -18390,13 +18347,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0019", /*message*/"２年�
 マルに似合うかなぁ。
 スカーフの色が違うだけで
 印象もだいぶ変わるし……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0036", /*message*/"暑さ寒さも彼岸まで。
-涼しくなるまで
-もうちょっと頑張ろう");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0037", /*message*/"あなたの声は、
-焼き芋みたいに甘くて、
-聴いてると心が
-ほかほかするんだ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0107_0038", /*message*/"春だけじゃなく、
 秋にも七草があるんだよ。
 ただし秋は食べずに
@@ -18563,12 +18513,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0019", /*message*/"もう�
 これを見ると、
 あの頃は若かったわ～☆
 って思うのよね♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0036", /*message*/"秋がスタートしたけど、
-マリーの中ではまだまだ夏よ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0037", /*message*/"これからだんだん
-涼しくなるわ。
-思う存分、スキンシップが
-取れるわね～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0108_0038", /*message*/"秋の日は……何だっけ？
 ナントカっていうじゃない？
 あ～ん、思い出せない！
@@ -18751,14 +18695,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0019", /*message*/"お姉�
 もっと歳が離れてたら……
 お姉ちゃんの制服をもらって
 着てたかもしれないね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0036", /*message*/"親戚の人がぶどうをたくさん送ってくれたの。
-甘酸っぱくて美味しくて、
-１人で１房食べちゃった！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0037", /*message*/"ルビィはコスモスに似てる？
-ええ～っ、本当？
-照れちゃうよぉ。
-でも、嬉しいな。
-ありがとう♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0109_0038", /*message*/"今日のお弁当は栗ご飯♪
 栗は甘くて、
 ごま塩のしょっぱさが
@@ -18906,15 +18842,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0018", /*message*/"学校�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0019", /*message*/"スクールアイドルとしては、
 学生の本分の勉強も
 頑張らないとね！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0036", /*message*/"残暑が厳しいざんしょ……
-ううっ、愛ちゃんに
-罰ゲームで言わされたのー
-そんな顔で見ないでー");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0037", /*message*/"秋の気配がしてきたね……
-なんだか
-寂しくなってきちゃった……
-ちょっとだけ
-くっついていい？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0201_0038", /*message*/"読書の秋にスポーツの秋……
 秋はいっぱいやりたいことが
 あって楽しいね！");
@@ -19080,15 +19007,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0018", /*message*/"目指�
 日本一のスクールアイドル！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0019", /*message*/"コッペパン食べます？
 それとも、つめます？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0036", /*message*/"雨とか槍とか
-降らないかなぁ……
-今度体育祭が
-あるんですよねぇ……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0037", /*message*/"夏、終わっちゃいましたね。
-水着にメロンパン詰めるとか
-いろいろ考えてたのに。
-あっ、先輩なんで
-笑ってるんです？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0202_0038", /*message*/"秋の夜長かぁ……
 夜が長いのってなんか
 苦手なんですよね
@@ -19293,14 +19211,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0019", /*message*/"やだ�
 スカートめくれてるって、
 どこですか！？
 どこですか〜！？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0036", /*message*/"まだ残暑が厳しいですね……
-体調を崩したりしないよう
-気をつけましょうね");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0037", /*message*/"暑かったり肌寒かったりで
-服に困りますね。
-どういう格好をしたらいいか
-一緒に考えて
-もらえませんか？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0203_0038", /*message*/"ふぁぁ……あふ……
 新しくいただいた台本
 読んでいたら寝不足で……
@@ -19491,13 +19401,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0019", /*message*/"似合�
 自分に似合うように、
 ちょっと
 アレンジしてるからなの");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0036", /*message*/"気温の変化が
-激しい時期だからね、
-健康には気を付けるのよ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0037", /*message*/"だんだん日課の
-ウォーキングがしやすい
-季節になってきたわね。
-キミも一緒にどう？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0204_0038", /*message*/"秋の楽しみといえば、
 たき火……焼き芋……
 じゃなくて！
@@ -19664,15 +19567,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0018", /*message*/"制服�
 だーいすき！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0019", /*message*/"制服でスクールアイドル界を
 せーふく！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0036", /*message*/"あー……
-夏休み終わっちゃったよ……
-どうして夏休みって
-夏にしかないんだろ……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0037", /*message*/"夏休み明けって、
-燃え尽きた〜って感じだけど
-今年は違うね。
-君とのジュージツした時間の
-おかげだね！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0205_0038", /*message*/"スポーツの秋かぁ……んー、
 なんか身体が
 うずうずしてきた！
@@ -19854,12 +19748,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0018", /*message*/"朝な�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0019", /*message*/"制服のジャケットを
 お布団がわりにする
 ライフハック");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0036", /*message*/"残暑が厳しいざんしょ……
-あれ？　
-愛ちゃんにはドッカン
-きてたんだけどな……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0037", /*message*/"食欲の秋だよ〜。
-あなたをぽゆぽゆにせねば！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0038", /*message*/"エマちゃんの作るおやつが
 おいしくておいしくて……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0206_0039", /*message*/"部室に羽毛布団持ち込んだら
@@ -20021,14 +19909,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0018", /*message*/"スク�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0019", /*message*/"優木せつ菜は
 いついかなるときも
 スクールアイドルなのです！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0036", /*message*/"夏も終わりですね……でも、
-私のスクールアイドル愛は
-熱いままですよ！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0037", /*message*/"たまには息抜きに、
-サイクリングなんて
-どうですか？
-風をきって走るの、
-気持ちいいですよ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0207_0038", /*message*/"秋の夜長に聴く音楽は
 格別です。いつか、
 オーケストラをバックに
@@ -20225,13 +20105,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0018", /*message*/"日本�
 可愛いから好き♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0019", /*message*/"……またサイズ
 小さくなったかも？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0036", /*message*/"この暑さは残暑ざんしょ！
-このダジャレを
-教えてくれたのは……
-聞かなくてもわかる？");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0037", /*message*/"体育祭の練習なの。
-二人三脚一緒にやって！
-お願い！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0208_0038", /*message*/"わたしの日本語は漫画とか
 アニメで勉強してるんだよ。
 せつ菜ちゃんが
@@ -20395,12 +20268,6 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0018", /*message*/"少し�
 っぽくなれたかな？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0019", /*message*/"璃奈ちゃんボード
 「にっこりん♪」");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0036", /*message*/"鈴虫さんたちに負けないよう
-私も歌、もっと頑張る！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0037", /*message*/"トンボが飛ぶ季節。
-だんだん涼しくなっていくね
-……えっと、どうして私に
-向かって指くるくるしてる？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_na_m0209_0038", /*message*/"秋と言えば芸術の秋……。
 璃奈ちゃんボードを
 描く作業が捗る。

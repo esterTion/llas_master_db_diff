@@ -62,6 +62,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000003", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000004", /*message*/"日替わり楽曲を1回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000005", /*message*/"合宿を2回行う");
 INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000006", /*message*/"デイリー課題をすべてクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000007", /*message*/"「僕らは今のなかで」を1回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000008", /*message*/"イベントポイントを900獲得する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000009", /*message*/"ライブを5回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000010", /*message*/"デイリー課題をすべてクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"dailymission_desc_100000011", /*message*/"デイリー課題をすべてクリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400101", /*message*/"いずれかのメンバーのキズナLv.を5にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_400400102", /*message*/"いずれかのメンバーのキズナLv.を10にする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300101", /*message*/"「僕らは今のなかで」を10回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401300102", /*message*/"「僕らは今のなかで」を20回プレイする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401400101", /*message*/"「僕らは今のなかで」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401400102", /*message*/"「僕らは今のなかで」を20回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401400103", /*message*/"「僕らは今のなかで」を30回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401400104", /*message*/"「僕らは今のなかで」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_401400105", /*message*/"「僕らは今のなかで」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_405800101", /*message*/"合宿を10回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_405800102", /*message*/"合宿を20回行う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_406300101", /*message*/"スクールアイドルを1人レベルMAXにする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_406300102", /*message*/"スクールアイドルを2人レベルMAXにする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_407200101", /*message*/"いずれかのスクールアイドルの特訓で30マス以上解放する");
+INSERT INTO `m_dictionary` VALUES (/*id*/"event1mission_desc_407200102", /*message*/"いずれかのスクールアイドルの特訓で50マス以上解放する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400001", /*message*/"キズナLv.2を1人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400002", /*message*/"キズナLv.2を9人以上達成する");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_300400003", /*message*/"キズナLv.2を18人以上達成する");
@@ -292,9 +312,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400082", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400083", /*message*/"「ありふれた悲しみの果て」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400084", /*message*/"「ありふれた悲しみの果て」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400085", /*message*/"「ありふれた悲しみの果て」を100回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400086", /*message*/"「ぶる～べりぃ?とれいん」を10回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400087", /*message*/"「ぶる～べりぃ?とれいん」を50回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400088", /*message*/"「ぶる～べりぃ?とれいん」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400086", /*message*/"「ぶる～べりぃ♡とれいん」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400087", /*message*/"「ぶる～べりぃ♡とれいん」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400088", /*message*/"「ぶる～べりぃ♡とれいん」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400089", /*message*/"「勇気のReason」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400090", /*message*/"「勇気のReason」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400091", /*message*/"「勇気のReason」を100回クリアする");
@@ -325,9 +345,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400115", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400116", /*message*/"「おやすみなさん！」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400117", /*message*/"「おやすみなさん！」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400118", /*message*/"「おやすみなさん！」を100回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400119", /*message*/"「RED GEM WINk」を10回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400120", /*message*/"「RED GEM WINk」を50回クリアする");
-INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400121", /*message*/"「RED GEM WINk」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400119", /*message*/"「RED GEM WINK」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400120", /*message*/"「RED GEM WINK」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400121", /*message*/"「RED GEM WINK」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400122", /*message*/"「純愛レンズ」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400123", /*message*/"「純愛レンズ」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400124", /*message*/"「純愛レンズ」を100回クリアする");
@@ -340,6 +360,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400130", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400131", /*message*/"「New winding road」を10回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400132", /*message*/"「New winding road」を50回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400133", /*message*/"「New winding road」を100回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400134", /*message*/"「僕らは今のなかで」を10回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400135", /*message*/"「僕らは今のなかで」を50回クリアする");
+INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301400136", /*message*/"「僕らは今のなかで」を100回クリアする");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800001", /*message*/"Perfect Liveを10回達成");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800002", /*message*/"Perfect Liveを50回達成");
 INSERT INTO `m_dictionary` VALUES (/*id*/"freemission_desc_301800003", /*message*/"Perfect Liveを100回達成");
@@ -1383,11 +1406,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_018", /*message*/"出来�
 すごいね♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_020", /*message*/"ことり、
 まだまだ頑張れますよ～っ");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_021", /*message*/"今日も部活頑張ろうね♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_021", /*message*/"今日も張り切っていくよー♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_022", /*message*/"準備はオッケー♪ 
 ことり、頑張っちゃいます！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_023", /*message*/"早く早く♪ 
-部活をはじめるよ～っ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_023", /*message*/"早く、早く～♪
+置いてっちゃいますよー♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_024", /*message*/"ことりのこと、
 応援してね♪♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_025", /*message*/"今日はあなたに、たくさん
@@ -1397,7 +1420,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_027", /*message*/"ぴょ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_028", /*message*/"ふわぁ……
 少しくたびれましたぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_029", /*message*/"お昼寝だーいすき♪");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_030", /*message*/"あーあーあーあーあー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_030", /*message*/"ランラン♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_031", /*message*/"上手に出来たみたい♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_032", /*message*/"えへへ、頑張っちゃった！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0003_033", /*message*/"やったぁ！
@@ -1507,7 +1530,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_026", /*message*/"はっ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_027", /*message*/"るんるんる～ん♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_028", /*message*/"あー……疲れた");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_029", /*message*/"ふう……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_030", /*message*/"あーあーあーあーあー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_030", /*message*/"るーるーるー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_031", /*message*/"まあまあね。
 頑張ったんじゃない？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0006_032", /*message*/"もっと私のこと……
@@ -1552,7 +1575,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_026", /*message*/"ほっ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_027", /*message*/"くるくる～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_028", /*message*/"ふー……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_029", /*message*/"すやすや……");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_030", /*message*/"るるるるる～♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_030", /*message*/"ら～、らら～♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_031", /*message*/"今日も頑張ったやん♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0007_032", /*message*/"あなたのアドバイスが
 よかったからやね♪");
@@ -1592,7 +1615,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_027", /*message*/"ころ�
 くるくる～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_028", /*message*/"くたびれましたぁ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_029", /*message*/"おにぎりおいしい！");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_030", /*message*/"らーらーらーらーらー♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_030", /*message*/"る～んる～ん、ら～んら～ん♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_031", /*message*/"上手に出来たみたい♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0008_032", /*message*/"アドバイスしてくれて
 ありがとう♪");
@@ -2127,7 +2150,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_027", /*message*/"ワン�
 ワン・ツー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_028", /*message*/"ふぅ……");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_029", /*message*/"ふぅ～");
-INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_030", /*message*/"hu～");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_030", /*message*/"ふ～んふふ～ん♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_031", /*message*/"今のは良かったんじゃない？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0204_032", /*message*/"うふふ、
 ちゃんと見てくれてた？");
@@ -2353,7 +2376,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0209_032", /*message*/"ねえ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0209_033", /*message*/"璃奈ちゃんボード
 「ばっちり！」");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0209_034", /*message*/"あなたのアドバイス
-嬉しいから、レッスン楽しい");
+嬉しいから、練習も楽しい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0209_037", /*message*/"よかった、ね");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0209_038", /*message*/"えへへ、嬉しい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_sys_m0209_040", /*message*/"あ……あの、
