@@ -100,3 +100,5 @@ INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Loca
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70002/tex_banner_notice_l_70002", /*path*/"};*");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70003/tex_banner_notice_l_70003", /*path*/"3W4");
 INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70004/tex_banner_notice_l_70004", /*path*/";af");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70006/tex_banner_notice_l_70006", /*path*/"3b6");
+INSERT INTO `m_decoration_texture` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70007/tex_banner_notice_l_70007", /*path*/"dk>");

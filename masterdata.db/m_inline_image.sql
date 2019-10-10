@@ -1151,3 +1151,5 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Scenarios/Icon/tex_scenarios_gr0101_
 INSERT INTO `m_inline_image` VALUES (/*id*/"Scenarios/Icon/tex_scenarios_gr0201_icon", /*path*/"D&\"");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Scenarios/Icon/tex_scenarios_my_icon", /*path*/"+J\");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Scenarios/Icon/tex_scenarios_other_icon", /*path*/"GvB");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70006/tex_banner_notice_l_70006", /*path*/"3b6");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70007/tex_banner_notice_l_70007", /*path*/"dk>");
