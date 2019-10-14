@@ -623,6 +623,11 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/2001
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_gacha_top_20012_1", /*path*/"Y@<");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_notice_l_20012", /*path*/"<Gl");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20012/tex_banner_notice_s_20012", /*path*/"aPO");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20013/tex_banner_gacha_sticker_20013", /*path*/":3?");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20013/tex_banner_gacha_text_20013_1", /*path*/"5_B");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20013/tex_banner_gacha_top_20013_1", /*path*/".|l");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20013/tex_banner_notice_l_20013", /*path*/"6qN");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20013/tex_banner_notice_s_20013", /*path*/"enS");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20014/tex_banner_gacha_text_20014_1", /*path*/"Lv'");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20014/tex_banner_gacha_top_20014_1", /*path*/"WN|");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Gacha/20014/tex_banner_notice_s_20014", /*path*/"<1F");
@@ -1153,3 +1158,5 @@ INSERT INTO `m_inline_image` VALUES (/*id*/"Scenarios/Icon/tex_scenarios_my_icon
 INSERT INTO `m_inline_image` VALUES (/*id*/"Scenarios/Icon/tex_scenarios_other_icon", /*path*/"GvB");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70006/tex_banner_notice_l_70006", /*path*/"3b6");
 INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70007/tex_banner_notice_l_70007", /*path*/"dk>");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70005/tex_banner_notice_s_70005", /*path*/"VW-");
+INSERT INTO `m_inline_image` VALUES (/*id*/"Common/InlineImage/Banner/Campaign/70005/tex_banner_notice_l_70005", /*path*/"}dF");

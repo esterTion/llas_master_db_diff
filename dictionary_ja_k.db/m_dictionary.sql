@@ -2003,6 +2003,36 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_102092001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_102092001_3", /*message*/"自身のアピールの31%ボルテージを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_102092001_4", /*message*/"自身のアピールの34%ボルテージを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_102092001_5", /*message*/"自身のアピールの37%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200032001_1", /*message*/"自身のアピールの25%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200032001_2", /*message*/"自身のアピールの28%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200032001_3", /*message*/"自身のアピールの31%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200032001_4", /*message*/"自身のアピールの34%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200032001_5", /*message*/"自身のアピールの37%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_1", /*message*/"10ノーツの間スタミナダメージを12%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_2", /*message*/"10ノーツの間スタミナダメージを13%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_3", /*message*/"10ノーツの間スタミナダメージを14%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_4", /*message*/"10ノーツの間スタミナダメージを15%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_200063001_5", /*message*/"10ノーツの間スタミナダメージを16%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201053001_1", /*message*/"5ノーツの間アピールが6%増加(特殊)
+対象:同学校");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201053001_2", /*message*/"5ノーツの間アピールが6.3%増加(特殊)
+対象:同学校");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201053001_3", /*message*/"5ノーツの間アピールが6.6%増加(特殊)
+対象:同学校");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201053001_4", /*message*/"5ノーツの間アピールが6.9%増加(特殊)
+対象:同学校");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201053001_5", /*message*/"5ノーツの間アピールが7.2%増加(特殊)
+対象:同学校");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_1", /*message*/"最大SPの5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_2", /*message*/"最大SPの5.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_3", /*message*/"最大SPの6%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_4", /*message*/"最大SPの6.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_201092001_5", /*message*/"最大SPの7%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_1", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの35%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_2", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの35.5%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_3", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの36%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_4", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの36.5%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_202043001_5", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの37%増加");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300022001_1", /*message*/"5ノーツの間特技発動率が2.2%上昇
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300022001_2", /*message*/"5ノーツの間特技発動率が2.4%上昇
@@ -2012,6 +2042,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300022001_3",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300022001_4", /*message*/"5ノーツの間特技発動率が2.8%上昇
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300022001_5", /*message*/"5ノーツの間特技発動率が3%上昇
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300023001_1", /*message*/"5ノーツの間アピールが5%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300023001_2", /*message*/"5ノーツの間アピールが5.3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300023001_3", /*message*/"5ノーツの間アピールが5.6%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300023001_4", /*message*/"5ノーツの間アピールが5.9%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300023001_5", /*message*/"5ノーツの間アピールが6.2%増加
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300033001_1", /*message*/"5ノーツの間特技発動率が4.2%上昇
 対象:同作戦");
@@ -2033,6 +2073,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300043001_4",
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300043001_5", /*message*/"5ノーツの間獲得ボルテージが6.2%増加
 対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300052001_1", /*message*/"最大SPの5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300052001_2", /*message*/"最大SPの5.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300052001_3", /*message*/"最大SPの6%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300052001_4", /*message*/"最大SPの6.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300052001_5", /*message*/"最大SPの7%SPゲージを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300062001_1", /*message*/"5ノーツの間SPゲージ獲得量が3%上昇
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300062001_2", /*message*/"5ノーツの間SPゲージ獲得量が3.3%上昇
@@ -2043,11 +2088,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300062001_4",
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300062001_5", /*message*/"5ノーツの間SPゲージ獲得量が4.2%上昇
 対象:全員");
-INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_1", /*message*/"最大SPの7%SPゲージを獲得");
-INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_2", /*message*/"最大SPの7.5%SPゲージを獲得");
-INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_3", /*message*/"最大SPの8%SPゲージを獲得");
-INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_4", /*message*/"最大SPの8.5%SPゲージを獲得");
-INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_5", /*message*/"最大SPの9%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_1", /*message*/"最大SPの5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_2", /*message*/"最大SPの5.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_3", /*message*/"最大SPの6%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_4", /*message*/"最大SPの6.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_300072001_5", /*message*/"最大SPの7%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_1", /*message*/"自身のスタミナの20%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_2", /*message*/"自身のスタミナの23%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_3", /*message*/"自身のスタミナの26%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_4", /*message*/"自身のスタミナの29%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301023001_5", /*message*/"自身のスタミナの32%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301033001_1", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの30%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301033001_2", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの30.5%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301033001_3", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの31%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301033001_4", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの31.5%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301033001_5", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの32%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_1", /*message*/"自身のスタミナの20%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_2", /*message*/"自身のスタミナの22%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_3", /*message*/"自身のスタミナの24%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_4", /*message*/"自身のスタミナの26%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301043001_5", /*message*/"自身のスタミナの28%シールドを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301052001_1", /*message*/"10ノーツの間クリティカル値が5%上昇
 対象:同作戦");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301052001_2", /*message*/"10ノーツの間クリティカル値が5.5%上昇
@@ -2058,6 +2118,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301052001_4",
 対象:同作戦");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301052001_5", /*message*/"10ノーツの間クリティカル値が7%上昇
 対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301062001_1", /*message*/"10ノーツの間スタミナダメージを7%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301062001_2", /*message*/"10ノーツの間スタミナダメージを8%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301062001_3", /*message*/"10ノーツの間スタミナダメージを9%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301062001_4", /*message*/"10ノーツの間スタミナダメージを10%軽減");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301062001_5", /*message*/"10ノーツの間スタミナダメージを11%軽減");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301063001_1", /*message*/"自身のスタミナの20%スタミナを回復");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301063001_2", /*message*/"自身のスタミナの23%スタミナを回復");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_301063001_3", /*message*/"自身のスタミナの26%スタミナを回復");
@@ -2078,6 +2143,21 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_3", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの31%増加");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_4", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの31.5%増加");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400013001_5", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの32%増加");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_1", /*message*/"5ノーツの間SPゲージ獲得量が3%上昇
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_2", /*message*/"5ノーツの間SPゲージ獲得量が3.3%上昇
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_3", /*message*/"5ノーツの間SPゲージ獲得量が3.6%上昇
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_4", /*message*/"5ノーツの間SPゲージ獲得量が3.9%上昇
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400042001_5", /*message*/"5ノーツの間SPゲージ獲得量が4.2%上昇
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400083001_1", /*message*/"最大SPの7%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400083001_2", /*message*/"最大SPの7.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400083001_3", /*message*/"最大SPの8%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400083001_4", /*message*/"最大SPの8.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400083001_5", /*message*/"最大SPの9%SPゲージを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400092001_1", /*message*/"5ノーツの間獲得ボルテージが5%増加
 対象:同タイプ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_400092001_2", /*message*/"5ノーツの間獲得ボルテージが5.3%増加
@@ -2093,6 +2173,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401012001_2",
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401012001_3", /*message*/"自身のスタミナの26%スタミナを回復");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401012001_4", /*message*/"自身のスタミナの29%スタミナを回復");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401012001_5", /*message*/"自身のスタミナの32%スタミナを回復");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401073001_1", /*message*/"自身のアピールの25%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401073001_2", /*message*/"自身のアピールの28%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401073001_3", /*message*/"自身のアピールの31%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401073001_4", /*message*/"自身のアピールの34%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401073001_5", /*message*/"自身のアピールの37%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401082001_1", /*message*/"自身のスタミナの15%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401082001_2", /*message*/"自身のスタミナの18%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401082001_3", /*message*/"自身のスタミナの21%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401082001_4", /*message*/"自身のスタミナの24%シールドを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401082001_5", /*message*/"自身のスタミナの27%シールドを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401093001_1", /*message*/"5ノーツの間獲得ボルテージが5%増加
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_401093001_2", /*message*/"5ノーツの間獲得ボルテージが5.3%増加
@@ -2118,6 +2208,16 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402022001_4",
 対象:全員");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402022001_5", /*message*/"5ノーツの間アピールが4.2%増加
 対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_1", /*message*/"最大SPの5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_2", /*message*/"最大SPの5.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_3", /*message*/"最大SPの6%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_4", /*message*/"最大SPの6.5%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402052001_5", /*message*/"最大SPの7%SPゲージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402062001_1", /*message*/"自身のアピールの25%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402062001_2", /*message*/"自身のアピールの28%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402062001_3", /*message*/"自身のアピールの31%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402062001_4", /*message*/"自身のアピールの34%ボルテージを獲得");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_description_402062001_5", /*message*/"自身のアピールの37%ボルテージを獲得");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_100011001", /*message*/"ファイトだよっ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_100011002", /*message*/"スクールアイドル革命");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_100012001", /*message*/"夢をかなえる力");
@@ -2217,21 +2317,38 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_102082001", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_102091001", /*message*/"ボード越しの繋がり");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_102091002", /*message*/"キモチシンパシー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_102092001", /*message*/"繋がるメロディー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200032001", /*message*/"つくりあげてきたもの");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_200063001", /*message*/"紅の魅力");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201053001", /*message*/"全速前進っ!!");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_201092001", /*message*/"ルビィにとって素敵なもの");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_202043001", /*message*/"ついてこられるかしら");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300022001", /*message*/"蒼い瞳の導き");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300023001", /*message*/"森林のちから");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300033001", /*message*/"あなたの好きなもの");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300043001", /*message*/"ラブアローシュート");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300052001", /*message*/"楽しいにゃ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300062001", /*message*/"あんまり見ないでよ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_300072001", /*message*/"タロットに導かれて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301023001", /*message*/"輝けるその一瞬を");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301033001", /*message*/"一緒に寝ちゃおっか");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301043001", /*message*/"ルビィと一緒に");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301052001", /*message*/"あなたにあげるねっ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301062001", /*message*/"堕天使降臨☆");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301063001", /*message*/"高まる闇の力");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_301072001", /*message*/"ドキドキするずら！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_302032001", /*message*/"ベアースマイル");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400013001", /*message*/"楽しんでいこう！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400042001", /*message*/"はじまりますよっ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400083001", /*message*/"控えめな天使");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_400092001", /*message*/"困っちゃうにこ～");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401012001", /*message*/"みかんパワー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401073001", /*message*/"自然に包まれて");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401082001", /*message*/"エンジョイ♪しましょ？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_401093001", /*message*/"モデルもがんばルビィ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402012001", /*message*/"ぴょんぴょんハート");
 INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402022001", /*message*/"ばかしてあげますよー");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402052001", /*message*/"ヒョウだぞ～！うっひょ～う");
+INSERT INTO `m_dictionary` VALUES (/*id*/"active_skill_name_402062001", /*message*/"すやすやタイム");
 INSERT INTO `m_dictionary` VALUES (/*id*/"activity_set_l_101", /*message*/"合宿編成");
 INSERT INTO `m_dictionary` VALUES (/*id*/"activity_set_l_201", /*message*/"合宿一括編成");
 INSERT INTO `m_dictionary` VALUES (/*id*/"activity_set_l_p101", /*message*/"自動合宿編成");
@@ -2484,10 +2601,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_102091002", /*message*/"顔�
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_102091002_voice", /*message*/"【R】[顔出しNG系スクールアイドル]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_102092001", /*message*/"はい！チーズ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_102092001_voice", /*message*/"【SR】[はい！チーズ]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300022001", /*message*/"少し隣で待っててくれる？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300022001_voice", /*message*/"【SR】[少し隣で待っててくれる？]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300033001", /*message*/"こっち手伝ってくれる？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_300033001_voice", /*message*/"【UR】[こっち手伝ってくれる？]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301052001", /*message*/"つまみ食いしちゃダメだよ？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301052001_voice", /*message*/"【SR】[つまみ食いしちゃダメだよ？]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301063001", /*message*/"堕天使降臨っ！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_301063001_voice", /*message*/"【UR】[堕天使降臨っ！]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013001", /*message*/"今日は目一杯楽しもー！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_400013001_voice", /*message*/"【UR】[今日は目一杯楽しもー！]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_401012001", /*message*/"沼津の名産");
@@ -2692,10 +2813,14 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_102091002", /*message
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_102091002_voice", /*message*/"【R】[璃奈ちゃんボード]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_102092001", /*message*/"ドキピポ☆エモーション");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_102092001_voice", /*message*/"【SR】[ドキピポ☆エモーション]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300022001", /*message*/"Snow halation");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300022001_voice", /*message*/"【SR】[Snow halation]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300033001", /*message*/"welcome to the party");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_300033001_voice", /*message*/"【UR】[welcome to the party]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301052001", /*message*/"君のこころは輝いてるかい？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301052001_voice", /*message*/"【SR】[君のこころは輝いてるかい？]");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301063001", /*message*/"トワイライトデーモン");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_301063001_voice", /*message*/"【UR】[トワイライトデーモン]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013001", /*message*/"welcome to the party");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_400013001_voice", /*message*/"【UR】[welcome to the party]");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_awaken_401012001", /*message*/"君のこころは輝いてるかい？");
@@ -2801,8 +2926,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_102082001", /*messa
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_102091001", /*message*/"にじがさきがくえんいちねんせい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_102091002", /*message*/"かおだしえぬじーけいすくーるあいどる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_102092001", /*message*/"はいちーず");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300022001", /*message*/"すこしとなりでまっててくれる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_300033001", /*message*/"こっちてつだってくれる");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301052001", /*message*/"つまみぐいしちゃだめだよ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_301063001", /*message*/"だてんしこうりんっ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_400013001", /*message*/"きょうはめいっぱいたのしもー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_401012001", /*message*/"ぬまづのめいさん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_402012001", /*message*/"みんなよろこんでくれるかな");
@@ -2905,8 +3032,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_102082001", 
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_102091001", /*message*/"ひめられたすがお");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_102091002", /*message*/"りなちゃんぼーど");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_102092001", /*message*/"どきぴぽほしえもーしょん");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300022001", /*message*/"すのーはれーしょん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_300033001", /*message*/"うぇるかむとぅーざぱーてぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301052001", /*message*/"きみのこころはかがやいてるかい");
+INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_301063001", /*message*/"とわいらいとでーもん");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_400013001", /*message*/"うぇるかむとぅーざぱーてぃー");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_401012001", /*message*/"きみのこころはかがやいてるかい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"card_name_hiragana_awaken_402012001", /*message*/"わくわくあにまる");
@@ -4423,6 +4552,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_1010830016", /*message*/"�
 ほらもっと近づいて♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_1010930016", /*message*/"えへへ……美味しくって……幸せ～♡");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3000330016", /*message*/"やったぁ〜♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_3010630016", /*message*/"衣装で堕天っぽさ3割増し？　失礼ね！
+どんな格好だろうとヨハネは立派な堕天使よ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_vo_ca_4000130016", /*message*/"ねえねえ、あなたのこと、もっと教えてよ！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"giftbox_l_p101", /*message*/"コース購入完了");
 INSERT INTO `m_dictionary` VALUES (/*id*/"giftbox_l_p103", /*message*/"受け取りにいく");
@@ -9519,6 +9650,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002032", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002033", /*message*/"衣装「フレッシュフルーツパーラー」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002042", /*message*/"衣装「エターナルプロミス」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002043", /*message*/"衣装「エターナルプロミス」2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002052", /*message*/"衣装「Snow halation」1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1002053", /*message*/"衣装「Snow halation」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003032", /*message*/"衣装「フレッシュフルーツパーラー」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003033", /*message*/"衣装「フレッシュフルーツパーラー」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1003042", /*message*/"衣装「ラブリーポリス」1");
@@ -9585,6 +9718,8 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106032", /*mess
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106033", /*message*/"衣装「ハピネスチアガール」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106042", /*message*/"衣装「ホーンテッドプリンセス」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106043", /*message*/"衣装「ホーンテッドプリンセス」2");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106052", /*message*/"衣装「トワイライトデーモン」1");
+INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1106053", /*message*/"衣装「トワイライトデーモン」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1107032", /*message*/"衣装「ハピネスチアガール」1");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1107033", /*message*/"衣装「ハピネスチアガール」2");
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_dic_navi_voice_name_1107042", /*message*/"衣装「ドリーミングシープ」1");
@@ -11777,6 +11912,219 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017404", /
 対象:自身");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017405", /*message*/"基本アピールが7%増加
 対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017501", /*message*/"自身のアピールの10%SPゲージを獲得
+条件:楽曲開始時 確率:30%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017601", /*message*/"基本テクニックが3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017602", /*message*/"基本テクニックが3.3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017603", /*message*/"基本テクニックが3.6%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017604", /*message*/"基本テクニックが3.9%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017605", /*message*/"基本テクニックが4.2%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017701", /*message*/"ゲーム終了まで基本特技発動率が1.2%上昇
+条件:アピールチャンス(AC)開始時1回だけ発動 確率:30%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017801", /*message*/"基本テクニックが3%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017802", /*message*/"基本テクニックが3.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017803", /*message*/"基本テクニックが4%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017804", /*message*/"基本テクニックが4.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017805", /*message*/"基本テクニックが5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20017901", /*message*/"10ノーツの間特技発動率が10%上昇
+条件:アピールチャンス(AC)開始時 確率:30%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018001", /*message*/"基本テクニックが4%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018002", /*message*/"基本テクニックが4.3%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018003", /*message*/"基本テクニックが4.6%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018004", /*message*/"基本テクニックが4.9%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018005", /*message*/"基本テクニックが5.2%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018101", /*message*/"自身のスタミナの25%スタミナを回復
+条件:2000ダメージ以上受けた時 確率:40%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018201", /*message*/"基本スタミナが2%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018202", /*message*/"基本スタミナが2.3%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018203", /*message*/"基本スタミナが2.6%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018204", /*message*/"基本スタミナが2.9%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018205", /*message*/"基本スタミナが3.2%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018301", /*message*/"10ノーツの間SPゲージ獲得量が8%上昇
+条件:楽曲開始時 確率:30%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018401", /*message*/"基本テクニックが3%増加
+対象:同タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018402", /*message*/"基本テクニックが3.3%増加
+対象:同タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018403", /*message*/"基本テクニックが3.6%増加
+対象:同タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018404", /*message*/"基本テクニックが3.9%増加
+対象:同タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018405", /*message*/"基本テクニックが4.2%増加
+対象:同タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018501", /*message*/"10ノーツの間特技発動率が10%上昇
+条件:アピールチャンス(AC)成功時 確率:50%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018601", /*message*/"基本スタミナが4%増加
+対象:自身以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018602", /*message*/"基本スタミナが4.3%増加
+対象:自身以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018603", /*message*/"基本スタミナが4.6%増加
+対象:自身以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018604", /*message*/"基本スタミナが4.9%増加
+対象:自身以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018605", /*message*/"基本スタミナが5.2%増加
+対象:自身以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018701", /*message*/"10ノーツの間アピールが8%増加
+条件:アピールチャンス(AC)成功時 確率:50%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018801", /*message*/"基本アピールが3%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018802", /*message*/"基本アピールが3.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018803", /*message*/"基本アピールが4%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018804", /*message*/"基本アピールが4.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018805", /*message*/"基本アピールが5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20018901", /*message*/"自身のアピールの35%ボルテージを獲得
+条件:アピールチャンス(AC)成功時 確率:30%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019001", /*message*/"基本アピールが3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019002", /*message*/"基本アピールが3.3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019003", /*message*/"基本アピールが3.6%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019004", /*message*/"基本アピールが3.9%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019005", /*message*/"基本アピールが4.2%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019101", /*message*/"スタミナが0になると10%回復し復活する効果を付与する
+条件:楽曲開始時 確率:30%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019201", /*message*/"基本スタミナが3%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019202", /*message*/"基本スタミナが3.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019203", /*message*/"基本スタミナが4%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019204", /*message*/"基本スタミナが4.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019205", /*message*/"基本スタミナが5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019301", /*message*/"ゲーム終了まで基本アピールが5%増加
+条件:アピールチャンス(AC)開始時1回だけ発動 確率:30%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019401", /*message*/"基本アピールが4%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019402", /*message*/"基本アピールが4.3%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019403", /*message*/"基本アピールが4.6%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019404", /*message*/"基本アピールが4.9%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019405", /*message*/"基本アピールが5.2%増加
+対象:同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019501", /*message*/"1度だけSP特技で獲得するボルテージが自身のアピールの8%増加
+条件:アピールチャンス(AC)開始時 確率:30%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019601", /*message*/"基本テクニックが3%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019602", /*message*/"基本テクニックが3.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019603", /*message*/"基本テクニックが4%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019604", /*message*/"基本テクニックが4.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019605", /*message*/"基本テクニックが5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019701", /*message*/"10ノーツの間アピールが10%増加
+条件:アピールチャンス(AC)失敗時 確率:80%
+対象:自身以外");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019801", /*message*/"基本アピールが5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019802", /*message*/"基本アピールが5.5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019803", /*message*/"基本アピールが6%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019804", /*message*/"基本アピールが6.5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019805", /*message*/"基本アピールが7%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20019901", /*message*/"自身のスタミナの25%スタミナを回復
+条件:アピールチャンス(AC)開始時 確率:30%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020001", /*message*/"基本スタミナが5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020002", /*message*/"基本スタミナが5.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020003", /*message*/"基本スタミナが6%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020004", /*message*/"基本スタミナが6.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020005", /*message*/"基本スタミナが7%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020101", /*message*/"10ノーツの間特技発動率が10%上昇
+条件:作戦変更時 確率:30%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020201", /*message*/"基本スタミナが3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020202", /*message*/"基本スタミナが3.3%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020203", /*message*/"基本スタミナが3.6%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020204", /*message*/"基本スタミナが3.9%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020205", /*message*/"基本スタミナが4.2%増加
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020301", /*message*/"自身のアピールの11%SPゲージを獲得
+条件:SP特技発動時 確率:30%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020401", /*message*/"基本テクニックが5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020402", /*message*/"基本テクニックが5.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020403", /*message*/"基本テクニックが6%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020404", /*message*/"基本テクニックが6.5%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020405", /*message*/"基本テクニックが7%増加
+対象:同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020501", /*message*/"10ノーツの間アピールが8%増加
+条件:アピールチャンス(AC)成功時 確率:50%
+対象:全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020601", /*message*/"基本アピールが5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020602", /*message*/"基本アピールが5.5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020603", /*message*/"基本アピールが6%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020604", /*message*/"基本アピールが6.5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020605", /*message*/"基本アピールが7%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020701", /*message*/"自身のアピールの8%SPゲージを獲得
+条件:楽曲開始時 確率:50%");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020801", /*message*/"基本テクニックが5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020802", /*message*/"基本テクニックが5.5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020803", /*message*/"基本テクニックが6%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020804", /*message*/"基本テクニックが6.5%増加
+対象:自身");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_description_20020805", /*message*/"基本テクニックが7%増加
+対象:自身");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20000101", /*message*/"テクニック＋ :同属性");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20000102", /*message*/"テクニック＋ :同属性");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20000103", /*message*/"テクニック＋ :同属性");
@@ -12407,6 +12755,108 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017402", /*messag
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017403", /*message*/"アピール＋");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017404", /*message*/"アピール＋");
 INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017405", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017501", /*message*/"SPゲージ獲得 :曲開始時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017601", /*message*/"テクニック＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017602", /*message*/"テクニック＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017603", /*message*/"テクニック＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017604", /*message*/"テクニック＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017605", /*message*/"テクニック＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017701", /*message*/"特技発動率＋ :AC時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017801", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017802", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017803", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017804", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017805", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20017901", /*message*/"特技発動率UP :AC時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018001", /*message*/"テクニック＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018002", /*message*/"テクニック＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018003", /*message*/"テクニック＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018004", /*message*/"テクニック＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018005", /*message*/"テクニック＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018101", /*message*/"スタミナ回復 :ダメージ時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018201", /*message*/"スタミナ＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018202", /*message*/"スタミナ＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018203", /*message*/"スタミナ＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018204", /*message*/"スタミナ＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018205", /*message*/"スタミナ＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018301", /*message*/"SPゲージ獲得UP :曲開始時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018401", /*message*/"テクニック＋ :タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018402", /*message*/"テクニック＋ :タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018403", /*message*/"テクニック＋ :タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018404", /*message*/"テクニック＋ :タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018405", /*message*/"テクニック＋ :タイプ");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018501", /*message*/"特技発動率UP :AC成功時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018601", /*message*/"スタミナ＋ :仲間");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018602", /*message*/"スタミナ＋ :仲間");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018603", /*message*/"スタミナ＋ :仲間");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018604", /*message*/"スタミナ＋ :仲間");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018605", /*message*/"スタミナ＋ :仲間");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018701", /*message*/"アピールUP :AC成功時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018801", /*message*/"アピール＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018802", /*message*/"アピール＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018803", /*message*/"アピール＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018804", /*message*/"アピール＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018805", /*message*/"アピール＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20018901", /*message*/"ボルテージ獲得 :AC成功時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019001", /*message*/"アピール＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019002", /*message*/"アピール＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019003", /*message*/"アピール＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019004", /*message*/"アピール＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019005", /*message*/"アピール＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019101", /*message*/"復活 :曲開始時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019201", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019202", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019203", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019204", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019205", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019301", /*message*/"アピール＋ :AC時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019401", /*message*/"アピール＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019402", /*message*/"アピール＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019403", /*message*/"アピール＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019404", /*message*/"アピール＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019405", /*message*/"アピール＋ :同属性");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019501", /*message*/"SP特技UP :AC時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019601", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019602", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019603", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019604", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019605", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019701", /*message*/"アピールUP :AC失敗時/仲間");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019801", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019802", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019803", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019804", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019805", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20019901", /*message*/"スタミナ回復 :AC時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020001", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020002", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020003", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020004", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020005", /*message*/"スタミナ＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020101", /*message*/"特技発動率UP :作戦切替時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020201", /*message*/"スタミナ＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020202", /*message*/"スタミナ＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020203", /*message*/"スタミナ＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020204", /*message*/"スタミナ＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020205", /*message*/"スタミナ＋ :全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020301", /*message*/"SPゲージ獲得 :SP特技発動時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020401", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020402", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020403", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020404", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020405", /*message*/"テクニック＋ :同作戦");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020501", /*message*/"アピールUP :AC成功時/全員");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020601", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020602", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020603", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020604", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020605", /*message*/"アピール＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020701", /*message*/"SPゲージ獲得 :曲開始時");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020801", /*message*/"テクニック＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020802", /*message*/"テクニック＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020803", /*message*/"テクニック＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020804", /*message*/"テクニック＋");
+INSERT INTO `m_dictionary` VALUES (/*id*/"passive_skill_name_20020805", /*message*/"テクニック＋");
 INSERT INTO `m_dictionary` VALUES (/*id*/"popup_navi_love_level_text", /*message*/"キズナLv.{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"present_box_content_name", /*message*/"{0} × {1}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"present_box_l_101", /*message*/"プレゼントボックス");
@@ -14618,9 +15068,11 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"title_l_p701", /*message*/"データ�
 INSERT INTO `m_dictionary` VALUES (/*id*/"title_l_p702", /*message*/"データダウンロードの設定を行ってください
 端末の空き容量：約{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"title_l_p703", /*message*/"すべてのデータをまとめてダウンロードします
-一度にダウンロードする容量は多く時間がかかりますが、その後快適にプレイできます");
+一度にダウンロードする容量は多く時間がかかりますが
+その後快適にプレイできます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"title_l_p704", /*message*/"必要なデータを、必要なタイミングでダウンロードします
-一度にダウンロードする容量は少量ですが、ライブやストーリーなどでダウンロードが発生します");
+一度にダウンロードする容量は少量ですが
+ライブやストーリーなどでダウンロードが発生します");
 INSERT INTO `m_dictionary` VALUES (/*id*/"title_l_p705", /*message*/"※通信環境によっては時間がかかる場合があります
 ※Wi-Fi環境でのダウンロードをお勧めします
 ※設定はタイトルメニューやシステム設定から後で変更することができます");
@@ -14687,7 +15139,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p1101", /*message*/"ラブ
 INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p1201", /*message*/"ラブカスターが{0}個不足しています<br /><br />ラブカスターを購入しますか？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p1401", /*message*/"{0}の最大キズナLv.の上限が上がりました");
 INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p1601", /*message*/"{0}ゴールドとアイテムが必要になります");
-INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p1602", /*message*/"あと{0}回限界突破すると、解放対象になります<br />同一のスクールアイドルやスクールアイドルの証を使用することで限界突破が可能です");
+INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p1602", /*message*/"あと{0}回限界突破すると、解放対象になります<br />同一のスクールアイドルやスクールアイドルの輝きを使用することで限界突破が可能です");
 INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p202", /*message*/"必要数：{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p302", /*message*/"必要数：{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"training_ls_p401", /*message*/"{0}ゴールドとアイテムを消費します");
@@ -15773,6 +16225,23 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_1020920014", /*message*/"じゃ�
 じゃんぷ♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_1020920015", /*message*/"私、楽しいって顔……
 できてる？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000220012", /*message*/"雪が降ったら……
+奇跡が起こるかもって。
+そんなことを考えちゃうの");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000220013", /*message*/"白いファーが
+かわいらしいでしょ？
+子どもの頃に着ていた
+コートに少し似ていて、
+お気に入りなの♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000220014", /*message*/"困ってることがあったら、
+いつでも言ってちょうだい。
+私もたくさんキミに
+助けてもらってるんだから♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000220015", /*message*/"授業中も私のことを
+考えちゃう？　こらこら。
+キミの気持ちは
+とっても嬉しいけど、
+勉強にも集中してね？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000330012", /*message*/"えっ、クリームついてる？
 やー恥ずかしい");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3000330013", /*message*/"あまくてふわふわにできた〜
@@ -15795,6 +16264,19 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010520015", /*message*/"なん�
 動かしたい気分！
 ねえ、一緒に神社まで
 走りに行こうよ♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010630012", /*message*/"またみんなで堕天使衣装を
+着てみたいわね");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010630013", /*message*/"リトルデーモン、
+今日こそ共に地の底まで
+堕ちましょう♪");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010630014", /*message*/"そろそろあなたにも、
+リトルデーモンとしての
+名前をつけないとね♪
+何か希望はある？");
+INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_3010630015", /*message*/"少々の不運で
+へこたれるようでは、
+堕天使は務まらないのよ。
+覚えておきなさい！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130012", /*message*/"テンション上がるよ〜♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"vo_ca_4000130013", /*message*/"よーし、張り切っていこー！
 えいえいおー！");

@@ -1068,9 +1068,12 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102082001_1", /*message*/"無
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102091001_1", /*message*/"コツコツ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102091002_1", /*message*/"見て見て、璃奈ちゃんボード！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_102092001_1", /*message*/"璃奈無双！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300022001_1", /*message*/"生徒会で大切なこと");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_1", /*message*/"一緒にお買い物♪");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_300033001_2", /*message*/"淑女のように");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301052001_1", /*message*/"心強い！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_1", /*message*/"ヨハネの人間界活動記録");
+INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_301063001_2", /*message*/"堕天使の威厳");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_1", /*message*/"お礼合戦！？");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_400013001_2", /*message*/"舞踏会にだって行けちゃう！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"ss_title_401012001_1", /*message*/"秘密は苦手！");
