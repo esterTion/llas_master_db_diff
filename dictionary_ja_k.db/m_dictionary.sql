@@ -8871,7 +8871,9 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"love_level_up_ls_102", /*message*/"{0}
 INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_l_101", /*message*/"キズナランキング");
 INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_l_105", /*message*/"自分の順位");
 INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_l_202", /*message*/"キズナランキングのデータが見つかりませんでした<br/>しばらく経ってから再度お試しください");
-INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_l_301", /*message*/"キズナポイント未獲得のためランキングにエントリーしていません");
+INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_l_301", /*message*/"メンバーのキズナポイントを獲得した状態で
+ストーリーの1章をクリアすると
+キズナランキングに参加できます");
 INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_ls_101", /*message*/"{0}位");
 INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_ls_103", /*message*/"ランク{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"love_ranking_ls_104", /*message*/"{0}位");
