@@ -4492,6 +4492,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_lot_rate_ls_p103", /*message*/"{
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_104", /*message*/"1日{0}回限定あと{1}回");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_105", /*message*/"1人{0}回限定あと{1}回");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_106", /*message*/"{0}回リトライ可能！");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_107", /*message*/"{0}所持：");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_201", /*message*/"→");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_202", /*message*/"{0}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gacha_ls_205", /*message*/"{0}({1})");
@@ -4582,6 +4583,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_1", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_2", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_3", /*message*/"");
 INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_50001", /*message*/"コラボショップ「ODAIBA ゲーマーズ」オープン");
+INSERT INTO `m_dictionary` VALUES (/*id*/"gps_campaign_title_50002", /*message*/"Guilty Kiss参加記念");
 INSERT INTO `m_dictionary` VALUES (/*id*/"guide_accessory_edit_title01", /*message*/"アクセサリーをセットしよう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"guide_accessory_grade_up_title01", /*message*/"アクセサリーを限界突破しよう");
 INSERT INTO `m_dictionary` VALUES (/*id*/"guide_accessory_level_up_title01", /*message*/"アクセサリーを合成しよう");
@@ -4721,7 +4723,26 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_12", /*message*/"日�
 日替わり楽曲では、希少な特訓アイテムを手に入れることができます。
 また、通常楽曲よりも経験値とゴールドが多く入手できるので、毎日挑戦してみましょう。
 
-日替わり楽曲には、プレイ回数制限があります。");
+日替わり楽曲には、プレイ回数制限があります。
+
+【曜日ごとの日替わり楽曲一覧】
+μ&apos;s楽曲
+月曜日：恋のシグナルRin rin rin!
+火曜日：まほうつかいはじめました！
+水曜日：Daring!!
+木曜日：勇気のReason
+金曜日：ありふれた悲しみの果て
+土曜日：ぶる～べりぃ♡とれいん / 孤独なHeaven
+日曜日：純愛レンズ / Someday of my life
+
+Aqours楽曲
+月曜日：Beginner’s Sailing
+火曜日：One More Sunshine Story
+水曜日：RED GEM WINK
+木曜日：in this unstable world
+金曜日：WHITE FIRST LOVE
+土曜日：さかなかなんだか？ / Pianoforte Monologue
+日曜日：New winding road / おやすみなさん！");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_120", /*message*/"<align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_13001\" width=\"1184px\" height=\"520px\"/></align>
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_13002\" width=\"1184px\" height=\"520px\"/></align>
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_13003\" width=\"1184px\" height=\"520px\"/></align>");
@@ -4735,7 +4756,10 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_124", /*message*/"<al
 <align=\"center\"><sprite src=\"Common/InlineImage/Tutorial/tex_inlineimage_tutorial_11305\" width=\"1184px\" height=\"520px\"/></align>");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_125", /*message*/"アップデート情報やメンテナンス情報など、運営からのお知らせを確認できます。
 ゲーム内外に関する重要な内容が含まれますので、必ずご確認ください。");
-INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_126", /*message*/"課題を達成することでアイテムや称号など、各種報酬を受け取ることができます。");
+INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_126", /*message*/"課題を達成することでアイテムや称号など、各種報酬を受け取ることができます。
+デイリー課題の更新時間は毎日0:00です。
+
+ライブに関する課題において、ストーリー中のライブステージはカウントされませんのでご注意ください。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_127", /*message*/"今までプレイしたライブの履歴や、お気に入りメンバーのランキングを確認できます。
 ゲスト設定では、フレンドのライブに参加するスクールアイドルを属性ごとに設定することができます。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_128", /*message*/"消費、合宿、ガチャチケット、特訓、アクセサリーのタブごとにアイテムが一覧で表示されます。
@@ -4833,7 +4857,7 @@ LPが足りないとライブができないため注意してください。
 LPを回復するには、時間経過やプレイヤーランク上昇、またはアイテムを使用する方法があります。
 
 ・時間経過
-　3分で1回復します。
+　4分で1回復します。
 　※時間経過の場合、回復の最大値は100LPです。
 
 ・プレイヤーランク上昇
@@ -4936,19 +4960,19 @@ SP特技発動後は、ゲージは0になります。
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_3", /*message*/"合宿を行う時に必要なポイントです。
 APが足りないと合宿を行えないため注意してください。
 
-APは毎日AM0:00に1回、最大3まで回復します。
+APは毎日0:00と12:00に、最大3まで回復します。
 さらに、アイテムを使用することでAPを回復することができます。
 
 ・ラブカスター
-　10個でAPを1回復できます。
-　以降は回復に必要なラブカスターが10個ずつ増加します。
+　1日に10回までAPを回復することができます。
+　回復に必要なラブカスターは下記のように増加します。
+　【10→10→20→20→30→30→40→40→50→50】合計300個
 
 ・合宿チケット
 　1枚でAPを1回復できます。
 
-※ラブカスター使用時、1日に回復できる上限は5回です。
-　合宿チケットを使用することで、上限以上の回復が可能です。
-※毎日AM0:00にAPが全回復する際、回復回数がリセットされます。
+※合宿チケットを使用することで、10回以上の回復が可能です。
+※毎日0:00にAPが全回復する際、回復回数がリセットされます。
 ※LPとは異なり、プレイヤーランクが上がっても回復はしません。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_30", /*message*/"SP特技発動後にスペシャルタイムが発生します。
 スペシャルタイムが発生すると、一定時間アピール値が増加し、特技効果が上昇します。
@@ -5104,7 +5128,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_48", /*message*/"ス�
 ※特定の組み合わせによってひらめくスキルがあります。
 
 合宿を行うためにはAPが必要です。
-APは毎日AM0:00に1回、最大3まで回復します。
+APは毎日0:00と12:00に、最大3まで回復します。
 ラブカスターや合宿チケットを使用することで、APを回復することもできます。
 APが足りないと合宿を行えないため注意してください。
 
@@ -5302,7 +5326,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_79", /*message*/"メ�
 また、設定した背景はホーム画面などに反映されます。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_8", /*message*/"アプリを起動すると、1日1回ログインボーナスとして、指定された報酬を獲得できます。
 
-※ログインボーナスは毎日AM4:00に更新されます。");
+※ログインボーナスは毎日4:00に更新されます。");
 INSERT INTO `m_dictionary` VALUES (/*id*/"help_detail_text_80", /*message*/"ログインボーナスなどで報酬を獲得すると、プレゼントボックスへ送られます。
 受取期限があるプレゼントもあるため注意してください。
 ※期限が過ぎたプレゼントは消滅します。");
@@ -8703,6 +8727,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"live_music_select_l_115", /*message*/"
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_music_select_ls_104", /*message*/"<img src=\"Common/InlineImage/Icon/tex_inlineimage_icon_key_01\" width=\"24px\" height=\"24px\" offsety=\"-6px\" />ストーリー{0}章のライブステージ{1}クリアで解放");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_music_select_ls_105", /*message*/"{0}/{1}");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_music_select_ls_106", /*message*/"今日はあと{1}回/{0}");
+INSERT INTO `m_dictionary` VALUES (/*id*/"live_music_select_ls_107", /*message*/"{0} の絆レベル{1}のストーリーにて解放");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_mv_deck_select_l_101", /*message*/"MV編成");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_mv_deck_select_l_p101", /*message*/"警告");
 INSERT INTO `m_dictionary` VALUES (/*id*/"live_mv_deck_select_l_p102", /*message*/"お使いの端末では3Dライブ演出の動作が保証できません、
@@ -10275,7 +10300,7 @@ INSERT INTO `m_dictionary` VALUES (/*id*/"m_virtual_money_consume_reason_setting
 INSERT INTO `m_dictionary` VALUES (/*id*/"m_virtual_money_consume_reason_setting_training_tree", /*message*/"特訓");
 INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p106", /*message*/"メンテナンス中");
 INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p108", /*message*/"更新");
-INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p109", /*message*/"外部リンク先");
+INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p109", /*message*/"公式サイトへ");
 INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p110", /*message*/"https://www.klab.com/jp/");
 INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p113", /*message*/"キャンセル");
 INSERT INTO `m_dictionary` VALUES (/*id*/"maintenance_l_p114", /*message*/"OK");

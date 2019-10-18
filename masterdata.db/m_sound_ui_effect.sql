@@ -144,3 +144,4 @@ INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0075", /*path*/"se_0
 INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0076", /*path*/"se_010_0076");
 INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0077", /*path*/"se_010_0077");
 INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0078", /*path*/"se_010_0078");
+INSERT INTO `m_sound_ui_effect` VALUES (/*cue_name*/"se_010_0079", /*path*/"se_010_0079");

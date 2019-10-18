@@ -8,6 +8,7 @@ INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/4, /*path*/"bgm_0027");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/5, /*path*/"bgm_0027");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/6, /*path*/"bgm_0027");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/9, /*path*/"bgm_0028");
+INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/11, /*path*/"bgm_0028");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/14, /*path*/"bgm_0031");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/16, /*path*/"bgm_0036");
 INSERT INTO `m_scene_bgm` VALUES (/*scene_id*/22, /*path*/"bgm_0041");

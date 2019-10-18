@@ -70,3 +70,4 @@ INSERT INTO `m_dic_str` VALUES (/*id*/64, /*text*/"k.shop_ls_107");
 INSERT INTO `m_dic_str` VALUES (/*id*/65, /*text*/"k.shop_ls_109");
 INSERT INTO `m_dic_str` VALUES (/*id*/66, /*text*/"k.shop_ls_108");
 INSERT INTO `m_dic_str` VALUES (/*id*/67, /*text*/"k.shop_ls_110");
+INSERT INTO `m_dic_str` VALUES (/*id*/68, /*text*/"k.gacha_ls_107");

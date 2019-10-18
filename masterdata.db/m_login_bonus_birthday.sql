@@ -7,7 +7,6 @@ CREATE TABLE m_login_bonus_birthday(
   FOREIGN KEY (suit_master_id) REFERENCES m_suit(id)
 );
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/1, /*start_at*/1564758000, /*end_at*/1564844400, /*suit_master_id*/100013001);
-INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/2, /*start_at*/1571583600, /*end_at*/1571670000, /*suit_master_id*/100023001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/3, /*start_at*/1568214000, /*end_at*/1568300400, /*suit_master_id*/100033001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/4, /*start_at*/1552575600, /*end_at*/1552662000, /*suit_master_id*/100043001);
 INSERT INTO `m_login_bonus_birthday` VALUES (/*id*/5, /*start_at*/1572534000, /*end_at*/1572620400, /*suit_master_id*/100053001);

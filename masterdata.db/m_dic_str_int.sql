@@ -20,3 +20,4 @@ INSERT INTO `m_dic_str_int` VALUES (/*id*/14, /*text*/"k.location_information_ls
 INSERT INTO `m_dic_str_int` VALUES (/*id*/15, /*text*/"k.eventmarathon_ls_p903");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/16, /*text*/"k.eventmarathon_ls_p904");
 INSERT INTO `m_dic_str_int` VALUES (/*id*/17, /*text*/"k.gacha_lot_rate_ls_p103");
+INSERT INTO `m_dic_str_int` VALUES (/*id*/18, /*text*/"k.live_music_select_ls_107");
